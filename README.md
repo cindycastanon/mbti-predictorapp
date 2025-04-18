@@ -22,3 +22,4 @@ A web app built with Flask and PyTorch that predicts a user's Myers-Briggs Type 
 - scikit-learn
 - HTML/CSS (basic styling)
 - Deployed on Render
+You can access the live app here: https://mbti-predictorapp.onrender.com/

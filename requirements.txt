@@ -3,3 +3,4 @@ torch
 scikit-learn
 flask
 joblib
+gunicorn
